@@ -1,11 +1,13 @@
 # AzureIoTHubPrototype
 // From MinGyu, Ju
 
+// MainActivity.java 파일에서...
+
 // Windows 용 DeviceExplore 등을 사용하여 IoT Hub 에 디바이스를 등록한 후 생성되는 "Connection String" 을 아래의 connString 에 대입한다.
 
 String connString = "Put your IoT device's connection string here!";
 
-// 아래의 MQTT 는 HTTP 가 될 수도 있다.
+// MQTT 프로토콜 대신 HTTP 사용도 가능하다. - Azure Java API 참조.
 IotHubClientProtocol protocol = IotHubClientProtocol.MQTT;
 
 
