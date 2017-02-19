@@ -15,6 +15,8 @@ import com.microsoft.azure.iothub.Message;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
+// GitHub 용 Project
+
 public class MainActivity extends AppCompatActivity {
 
     String connString = "Put your IoT device's connection string here!";
