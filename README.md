@@ -1,5 +1,5 @@
 # AzureIoTHubPrototype
-// From MinGyu, Ju - knighp@gmail.com
+// From MinGyu, Ju
 
 // Windows 용 DeviceExplore 등을 사용하여 IoT Hub 에 디바이스를 등록한 후 생성되는 "Connection String" 을 아래의 connString 에 대입한다.
 
